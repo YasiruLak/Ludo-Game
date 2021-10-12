@@ -6,7 +6,7 @@ Simple Ludo Game Create Using Python
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/yasiru-dahanayaka-8bb47319a)
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/80274745/136917945-95332129-9a69-4c74-b6f1-d31db96d0d81.png)
 
